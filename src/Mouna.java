@@ -8,5 +8,10 @@
  * @author fcd
  */
 public class Mouna {
-    
+   public void totolo()
+   {
+       //rien
+       System.out.println(" test test ");
+       
+   }
 }
