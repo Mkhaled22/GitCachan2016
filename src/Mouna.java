@@ -9,4 +9,9 @@
  */
 public class Mouna {
     
+    public void totolo()
+    {
+        System.out.println("Le lavabo est beau !!");
+    }
+    
 }
