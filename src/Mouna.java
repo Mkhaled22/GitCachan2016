@@ -14,7 +14,7 @@ public class Mouna {
         System.out.println("Le lavabo est beau !!");
     }
     
-   public void totolo()
+   public void totolo2()
    {
        //rien
        System.out.println(" test test ");
